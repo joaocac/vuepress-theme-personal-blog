@@ -1,0 +1,10 @@
+{
+  "name": "vuepress-theme-personal-blog",
+  "version": "1.0.0",
+  "description": "Vuepress Theme - Modern and clean personal blog",
+  "main": "layouts/Layout.vue",
+  "repository": "https://github.com/joaocac/vuepress-theme-personal-blog",
+  "author": "Joao Correia",
+  "license": "MIT",
+  "private": false
+}
