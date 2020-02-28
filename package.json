@@ -9,6 +9,7 @@
   "private": false,
   "dependencies": {
     "remove-markdown": "^0.3.0",
+    "vuepress-plugin-janitor": "^1.0.0",
     "vuepress-plugin-reading-time": "^0.1.1"
   }
 }
