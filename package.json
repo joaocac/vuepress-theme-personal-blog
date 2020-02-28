@@ -2,9 +2,13 @@
   "name": "vuepress-theme-personal-blog",
   "version": "1.0.0",
   "description": "Vuepress Theme - Modern and clean personal blog",
-  "main": "layouts/Layout.vue",
+  "main": "index.js",
   "repository": "https://github.com/joaocac/vuepress-theme-personal-blog",
   "author": "Joao Correia",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "remove-markdown": "^0.3.0",
+    "vuepress-plugin-reading-time": "^0.1.1"
+  }
 }
